@@ -16,17 +16,17 @@
 
 ## Janela inicial
 
-![Janela inicial](img-exemplos\janela-inicial.png)
-![Janela inicial](img-exemplos\janela-inicial1.png)
+![Janela inicial](https://github.com/Vi-n1/CadeMeuDinheirinho/blob/main/img-exemplos/janela-inicial.png))
+![Janela inicial](https://github.com/Vi-n1/CadeMeuDinheirinho/blob/main/img-exemplos/janela-inicial1.png)
 
 ## Adicionar Receitas
 
-![Adicionar Receitas](img-exemplos\pagina-receitas.png)
+![Adicionar Receitas](https://github.com/Vi-n1/CadeMeuDinheirinho/blob/main/img-exemplos/pagina-receitas.png)
 
 ## Adicionar despesas
 
-![Adicionar despesas](img-exemplos\pagina-despesas.png)
+![Adicionar despesas](https://github.com/Vi-n1/CadeMeuDinheirinho/blob/main/img-exemplos/pagina-despesas.png)
 
 ## Plot de gráficos
 
-![Adicionar despesas](img-exemplos\janela-plot.png)
+![Plot](https://github.com/Vi-n1/CadeMeuDinheirinho/blob/main/img-exemplos/janela-plot.png)
