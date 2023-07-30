@@ -1,6 +1,6 @@
 # Cadê Meu Dinheirinho
 
-**Cadê Meu Dinheirinho** é um controle de orçamento pessoal.
+A aplicação é do tipo controle de orçamento pessoal.
 
 ## Suporte
 
