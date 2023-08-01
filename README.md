@@ -14,6 +14,29 @@ A aplicação é do tipo controle de orçamento pessoal.
 ![matplotlib](https://img.shields.io/badge/matplotlib-3.7.2-blue)
 ![blue](https://img.shields.io/badge/code%20style-blue-blue.svg)
 
+## Como usar
+
+- Clone
+```
+git clone https://github.com/Vi-n1/CadeMeuDinheirinho.git
+```
+- Entre na pasta CadeMeuDinheirinho
+```
+cd CadeMeuDinheirinho
+```
+- Instale as dependências
+```
+python -m pip install -r requirements.txt
+```
+- Entre na pasta src
+```
+cd src
+```
+- Inicie o programa
+```
+python CadeMeuDinheirinho.py
+```
+
 ## Janela inicial
 
 ![Janela inicial](https://github.com/Vi-n1/CadeMeuDinheirinho/blob/main/img-exemplos/janela-inicial.png))
